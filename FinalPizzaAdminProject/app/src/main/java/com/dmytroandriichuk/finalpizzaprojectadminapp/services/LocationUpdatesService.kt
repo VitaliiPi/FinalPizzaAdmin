@@ -287,9 +287,5 @@ class LocationUpdatesService : Service() {
          */
         private const val NOTIFICATION_ID = 12345678
 
-        /**
-         * The identifier for the user uid extra.
-         */
-        const val KEY_USER_ID = "USER_UID"
     }
 }
